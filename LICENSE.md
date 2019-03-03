@@ -12,7 +12,7 @@ Commercial Uses (as defined below) of the Software for commercial purposes requi
 
 ## 1. Definitions
 
-1.1 "***License***" means this Agreement.
+1.1 "***License***" means this Agreement..
 
 1.2 "***Licensee***" means you, the end user of the Software.
 
